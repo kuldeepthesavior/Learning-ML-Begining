@@ -1,0 +1,2 @@
+output1_cnn = 0.735610
+output2_cnn = 0.003007
